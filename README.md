@@ -3,7 +3,11 @@ ELF binary exploitation project in 42's advanced curriculum
 
 _Co-created with @HaruSnak_
 
+<br>
 
+<img src="assets/meme.png" alt="Alt text" width="500">
+
+<br>
 
 ---
 
